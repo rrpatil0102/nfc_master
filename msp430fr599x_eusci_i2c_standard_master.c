@@ -19,7 +19,7 @@
 //                |                 |
 //                |                 |
 //
-//   Nima Eskandari and Ryan Meredith
+//   Rahul Patil
 //   Texas Instruments Inc.
 //   January 2018
 //   Built with CCS V7.3
